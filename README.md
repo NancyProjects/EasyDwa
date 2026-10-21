@@ -16,6 +16,22 @@ EasyDwa is a lightweight inventory and sales management application built for a 
 - Local SQLite database
 - Windows setup, startup, and backup scripts
 
+- ## Screenshots
+
+### Dashboard
+![EasyDwa Dashboard](screenshots/01_dashboard.png)
+
+### Product Management
+![EasyDwa Products](screenshots/02_products.png)
+
+### Sales Processing
+![EasyDwa New Sale](screenshots/03_new_sale.png)
+
+### Daily Reports
+![EasyDwa Reports](screenshots/04_reports.png)
+
+> Screenshots use sample data to demonstrate the interface and workflows without exposing real business or customer information.
+
 ## Technology Stack
 
 - Python

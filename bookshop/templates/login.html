@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<section class="card narrow"><h1>Sign in</h1>{% if form.errors %}<p class="error notice">Check your username and password.</p>{% endif %}<form method="post">{% csrf_token %}{{ form.as_p }}<button>Sign in</button></form></section>{% endblock %}
